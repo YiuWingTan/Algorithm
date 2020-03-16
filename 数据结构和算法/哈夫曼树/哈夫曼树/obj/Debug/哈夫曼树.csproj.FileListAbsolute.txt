@@ -1,0 +1,6 @@
+W:\VS2013程序项目工程文件夹\算法\哈夫曼树\哈夫曼树\bin\Debug\哈夫曼树.exe.config
+W:\VS2013程序项目工程文件夹\算法\哈夫曼树\哈夫曼树\bin\Debug\哈夫曼树.exe
+W:\VS2013程序项目工程文件夹\算法\哈夫曼树\哈夫曼树\bin\Debug\哈夫曼树.pdb
+W:\VS2013程序项目工程文件夹\算法\哈夫曼树\哈夫曼树\obj\Debug\哈夫曼树.csprojResolveAssemblyReference.cache
+W:\VS2013程序项目工程文件夹\算法\哈夫曼树\哈夫曼树\obj\Debug\哈夫曼树.exe
+W:\VS2013程序项目工程文件夹\算法\哈夫曼树\哈夫曼树\obj\Debug\哈夫曼树.pdb

@@ -1,0 +1,24 @@
+﻿  源.cpp
+w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\源.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
+w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\源.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\leftistheap.cpp(215): warning C4018: “<”: 有符号/无符号不匹配
+  w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\leftistheap.cpp(204): note: 编译类 模板 成员函数“void LeftistHeap<int>::printfLeftistHeap(void)”时
+  w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\源.cpp(81): note: 参见对正在编译的函数 模板 实例化“void LeftistHeap<int>::printfLeftistHeap(void)”的引用
+  w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\源.cpp(78): note: 参见对正在编译的类 模板 实例化“LeftistHeap<int>”的引用
+w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\leftistheap.cpp(220): warning C4018: “<”: 有符号/无符号不匹配
+w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\leftistheap.cpp(225): warning C4018: “<”: 有符号/无符号不匹配
+w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\leftistheap.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\leftistheap.cpp(18): note: 编译类 模板 成员函数“void LeftistHeap<int>::initByVector(const std::vector<int,std::allocator<_Ty>> &)”时
+          with
+          [
+              _Ty=int
+          ]
+  w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\leftistheap.cpp(108): note: 参见对正在编译的函数 模板 实例化“void LeftistHeap<int>::initByVector(const std::vector<int,std::allocator<_Ty>> &)”的引用
+          with
+          [
+              _Ty=int
+          ]
+  w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\leftistheap.cpp(150): note: 编译类 模板 成员函数“void LeftistHeap<int>::merge(LeftistHeap<int>)”时
+  w:\vs2013程序项目工程文件夹\c++语法\算法深入\堆\源.cpp(84): note: 参见对正在编译的函数 模板 实例化“void LeftistHeap<int>::merge(LeftistHeap<int>)”的引用
+  堆.vcxproj -> W:\VS2013程序项目工程文件夹\C++语法\算法深入\Debug\堆.exe
+  堆.vcxproj -> W:\VS2013程序项目工程文件夹\C++语法\算法深入\Debug\堆.pdb (Full PDB)

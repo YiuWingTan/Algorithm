@@ -1,0 +1,5 @@
+﻿  源.cpp
+w:\vs2013程序项目工程文件夹\c++语法\剑指offer\在排序数组中查找数字\源.cpp(40): warning C4715: “find_right”: 不是所有的控件路径都返回值
+w:\vs2013程序项目工程文件夹\c++语法\剑指offer\在排序数组中查找数字\源.cpp(25): warning C4715: “find_left”: 不是所有的控件路径都返回值
+  在排序数组中查找数字.vcxproj -> W:\VS2013程序项目工程文件夹\C++语法\剑指Offer\Debug\在排序数组中查找数字.exe
+  在排序数组中查找数字.vcxproj -> W:\VS2013程序项目工程文件夹\C++语法\剑指Offer\Debug\在排序数组中查找数字.pdb (Full PDB)

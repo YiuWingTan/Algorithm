@@ -1,0 +1,6 @@
+W:\VS2013程序项目工程文件夹\算法\二叉堆排序\二叉堆排序\bin\Debug\二叉堆排序.exe.config
+W:\VS2013程序项目工程文件夹\算法\二叉堆排序\二叉堆排序\bin\Debug\二叉堆排序.exe
+W:\VS2013程序项目工程文件夹\算法\二叉堆排序\二叉堆排序\bin\Debug\二叉堆排序.pdb
+W:\VS2013程序项目工程文件夹\算法\二叉堆排序\二叉堆排序\obj\Debug\二叉堆排序.csprojResolveAssemblyReference.cache
+W:\VS2013程序项目工程文件夹\算法\二叉堆排序\二叉堆排序\obj\Debug\二叉堆排序.exe
+W:\VS2013程序项目工程文件夹\算法\二叉堆排序\二叉堆排序\obj\Debug\二叉堆排序.pdb
