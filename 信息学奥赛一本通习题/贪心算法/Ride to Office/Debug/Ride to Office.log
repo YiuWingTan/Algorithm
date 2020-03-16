@@ -1,0 +1,13 @@
+﻿  源.cpp
+w:\vs2013程序项目工程文件夹\算法之路\贪心算法\ride to office\源.cpp(35): warning C4244: “参数”: 从“float”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+w:\vs2013程序项目工程文件夹\算法之路\贪心算法\ride to office\源.cpp(36): warning C4244: “参数”: 从“float”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+w:\vs2013程序项目工程文件夹\算法之路\贪心算法\ride to office\源.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+  Ride to Office.vcxproj -> W:\VS2013程序项目工程文件夹\算法之路\贪心算法\Debug\Ride to Office.exe

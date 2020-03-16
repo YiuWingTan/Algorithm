@@ -1,0 +1,4 @@
+﻿  drawlots.cpp
+w:\vs2013程序项目工程文件夹\算法题\drawlots\drawlots\drawlots.cpp(45): warning C4715: “binarySearch”: 不是所有的控件路径都返回值
+  drawlots.vcxproj -> W:\VS2013程序项目工程文件夹\算法题\drawlots\Debug\drawlots.exe
+  drawlots.vcxproj -> W:\VS2013程序项目工程文件夹\算法题\drawlots\Debug\drawlots.pdb (Full PDB)

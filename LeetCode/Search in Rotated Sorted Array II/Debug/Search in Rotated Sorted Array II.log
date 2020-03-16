@@ -1,0 +1,6 @@
+﻿  源.cpp
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\search in rotated sorted array ii\源.cpp(34): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\search in rotated sorted array ii\源.cpp(75): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\search in rotated sorted array ii\源.cpp(76): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  Search in Rotated Sorted Array II.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Search in Rotated Sorted Array II.exe
+  Search in Rotated Sorted Array II.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Search in Rotated Sorted Array II.pdb (Full PDB)

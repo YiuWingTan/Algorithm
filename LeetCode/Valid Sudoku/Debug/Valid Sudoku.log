@@ -1,0 +1,5 @@
+﻿  源.cpp
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\valid sudoku\源.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\valid sudoku\源.cpp(18): warning C4715: “find”: 不是所有的控件路径都返回值
+  Valid Sudoku.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Valid Sudoku.exe
+  Valid Sudoku.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Valid Sudoku.pdb (Full PDB)

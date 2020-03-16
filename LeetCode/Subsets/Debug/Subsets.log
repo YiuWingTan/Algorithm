@@ -1,0 +1,5 @@
+﻿  源.cpp
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\subsets\源.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\subsets\源.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+  Subsets.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Subsets.exe
+  Subsets.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Subsets.pdb (Full PDB)

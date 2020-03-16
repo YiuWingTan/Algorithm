@@ -1,0 +1,4 @@
+﻿  源.cpp
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\pow(x, n)\源.cpp(22): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  Pow(x, n).vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Pow(x, n).exe
+  Pow(x, n).vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Pow(x, n).pdb (Full PDB)

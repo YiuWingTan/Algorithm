@@ -1,0 +1,4 @@
+﻿  源.cpp
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\word search\源.cpp(46): warning C4101: “mid”: 未引用的局部变量
+  Word Search.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Word Search.exe
+  Word Search.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Word Search.pdb (Full PDB)

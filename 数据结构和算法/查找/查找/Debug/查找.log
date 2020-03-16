@@ -1,0 +1,4 @@
+﻿  红黑树.cpp
+w:\vs2013程序项目工程文件夹\算法回顾ｃ＋＋版\查找\查找\红黑树.h(36): warning C4091: “typedef ”: 没有声明变量时忽略“RedBlackTree::Node”的左侧
+  查找.vcxproj -> W:\VS2013程序项目工程文件夹\算法回顾Ｃ＋＋版\查找\Debug\查找.exe
+  查找.vcxproj -> W:\VS2013程序项目工程文件夹\算法回顾Ｃ＋＋版\查找\Debug\查找.pdb (Full PDB)

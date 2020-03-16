@@ -1,0 +1,3 @@
+﻿  最长上升子序列.cpp
+多重部分和问题.obj : error LNK2005: _main 已经在 Integer Break.obj 中定义
+W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\动态规划书上习题.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

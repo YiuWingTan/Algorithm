@@ -1,0 +1,6 @@
+﻿  源.cpp
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\word ladder\源.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\word ladder\源.cpp(23): warning C4091: “typedef ”: 没有声明变量时忽略“P”的左侧
+w:\vs2013程序项目工程文件夹\leetcode\leetcode\word ladder\源.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+  Word Ladder.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Word Ladder.exe
+  Word Ladder.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Word Ladder.pdb (Full PDB)
