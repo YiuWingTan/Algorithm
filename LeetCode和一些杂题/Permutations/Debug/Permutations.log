@@ -1,8 +1,0 @@
-﻿  源.cpp
-w:\vs2013程序项目工程文件夹\leetcode\leetcode\permutations\源.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
-w:\vs2013程序项目工程文件夹\leetcode\leetcode\permutations\源.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
-w:\vs2013程序项目工程文件夹\leetcode\leetcode\permutations\源.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
-w:\vs2013程序项目工程文件夹\leetcode\leetcode\permutations\源.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
-w:\vs2013程序项目工程文件夹\leetcode\leetcode\permutations\源.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
-  Permutations.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Permutations.exe
-  Permutations.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Permutations.pdb (Full PDB)

@@ -1,5 +1,0 @@
-﻿  源.cpp
-w:\vs2013程序项目工程文件夹\leetcode\leetcode\unique paths\源.cpp(54): warning C4474: printf: 格式字符串中传递的参数太多
-  w:\vs2013程序项目工程文件夹\leetcode\leetcode\unique paths\源.cpp(54): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
-  Unique Paths.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Unique Paths.exe
-  Unique Paths.vcxproj -> W:\VS2013程序项目工程文件夹\LeetCode\LeetCode\Debug\Unique Paths.pdb (Full PDB)
